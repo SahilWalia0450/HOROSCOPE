@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">HOROSCOPE</string>
+    <string name="aries_information">
+    Aries, symbolized by the Ram, is a dynamic fire sign characterized by its energy, courage, and assertiveness. Individuals born under Aries are natural leaders who approach challenges with enthusiasm and a pioneering spirit. Their competitive nature and bold initiatives make them trailblazers in various aspects of life.
+    </string>
+    <string name="libra_information">
+        Libra, represented by the Scales, is an air sign associated with balance, diplomacy, and aesthetic appreciation. Librans are social and charming individuals who seek harmony in relationships. With a natural sense of fairness and an eye for beauty, they contribute to creating a pleasant and cooperative atmosphere.
+    </string>
+    <string name="scorpio_information">
+        Scorpio, ruled by Pluto and symbolized by the Scorpion, is a water sign known for its intensity, resilience, and transformative qualities. Scorpios are deeply emotional and possess a mysterious aura, making them adept at navigating complex situations. With a keen sense of intuition, they embrace change and personal growth.
+    </string>
+    <string name="gemini_information" >
+        Gemini, symbolized by the Twins, is an air sign known for its adaptability, intelligence, and communicative skills. Geminis are curious and versatile individuals who thrive on mental stimulation. With a quick wit and a sociable nature, they effortlessly navigate diverse social circles and enjoy exploring a variety of interests.
+    </string>
+   <string name="leo_information" >
+        Leo, the regal Lion of the zodiac, is a fire sign characterized by its boldness, creativity, and charismatic nature. Those born under Leo are natural leaders who radiate confidence and enjoy being in the spotlight. With a generous spirit and a love for self-expression, Leos bring warmth and enthusiasm to any situation.
+   </string>
+   <string name="cancer_information" >
+        Cancer, represented by the Crab, is a water sign associated with emotions, intuition, and a nurturing demeanor. Those born under Cancer are compassionate, protective individuals deeply connected to family and home. With a caring nature and strong intuition, they create a secure and comforting environment for themselves and their loved ones.
+   </string>
+   <string name="virgo_information" >
+        Virgo, an earth sign symbolized by the Virgin, is known for its practicality, attention to detail, and analytical mindset. Virgos exhibit a strong work ethic and are meticulous in their approach to tasks. With a focus on organization and service, they contribute to creating order in their surroundings and excel in problem-solving.
+   </string>
+   <string name="taurus_information" >
+        Taurus, represented by the Bull, is an earth sign associated with stability, practicality, and a love for the finer things in life. Taureans are reliable, patient individuals who appreciate comfort and beauty. Grounded in nature, they exhibit determination and a strong sense of loyalty in their relationships.
+   </string>
+    <string name="aries_horoscope">Aries Horoscope</string>
+    <string name="cancer_horoscope">Cancer Horoscope</string>
+    <string name="gemini_horoscope">Gemini Horoscope</string>
+    <string name="leo_horoscope">Leo Horoscope</string>
+    <string name="libra_horoscope">Libra Horoscope</string>
+    <string name="scorpio_horoscope">Scorpio Horoscope</string>
+    <string name="taurus_horoscope">Taurus Horoscope</string>
+    <string name="virgo_horoscope">Virgo Horoscope</string>
+    <string name="back_button" />
+</resources>

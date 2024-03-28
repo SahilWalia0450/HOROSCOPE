@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="horoscopeImageView" type="id" />
+    <item name="informationTextView" type="id" />
+    <item name="horoscopeNameTextView" type="id" />
+</resources>
